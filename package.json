@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "admin-lte": "^3.2.0",
+    "bootstrap": "^5.2.1",
+    "mdb-react-ui-kit": "^4.2.0",
+    "react-bootstrap": "^2.5.0",
+    "react-grid": "^4.0.4",
+    "react-hook-form": "^7.36.0",
+    "react-icons": "^4.4.0",
+    "react-router-dom": "^5.2.0",
+    "react-toastify": "^9.0.8",
+    "sweetalert": "^2.1.2"
+  }
+}

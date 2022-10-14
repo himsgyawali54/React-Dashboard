@@ -1,0 +1,19 @@
+ button{
+    width:80px;
+    height:40px;
+    border-radius: 60px;
+    color: white;
+    font-size: 22px;
+    border:none;
+    background-color: rgb(125, 125, 194);
+    
+  } 
+   .stable{
+    margin-left: 260px;
+    padding-right: 280px;
+  } 
+  @media screen and (max-width: 600px) {
+    .column {
+      width: 100%;
+    }
+  }
